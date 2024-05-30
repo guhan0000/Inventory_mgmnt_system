@@ -1,0 +1,57 @@
+body
+{
+    background-color:rgb(190, 179, 177);
+}
+#p1
+{
+    border: 3px solid;
+    width: 600px;
+    height: 700px;
+    background: rgb(12, 172, 178);
+    padding: auto;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+    float: left;
+       
+}
+#desc1
+{
+    text-indent: 50px;
+}
+#details1
+{
+    text-indent: 50px;
+}
+
+#p2
+{
+    border: 3px solid;
+    width: 600px;
+    height: 700px;
+    background: rgb(12, 172, 178);
+    margin-top: 50px;
+    margin-right: 100px;
+
+    position:absolute;
+    left:60%;
+}
+#desc2
+{
+    text-indent: 50px;
+}
+#details2
+{
+    text-indent: 50px;
+}
+
+#img1
+{
+
+    position:absolute;width:250px;left:33%;
+}
+
+#img2
+{
+    position:absolute;width:200px;left:66.6%;
+}
