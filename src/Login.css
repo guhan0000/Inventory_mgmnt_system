@@ -1,0 +1,89 @@
+.log
+{
+	Background-color:rgb(72, 72, 175);
+	border-radius: 10px;
+	width :90px;
+	height:30px;
+	text-align:center;
+	left:70%;
+	transform: translate(180%, 10%);
+	margin:2px;
+    margin-block:5px;
+}
+
+
+.line1
+{
+	border-left:50px;
+	height: 600px;
+	position:absolute;
+	left:40%;
+	top:0;
+
+	padding: 100px;
+	
+}
+.bd
+{
+	border: 5px solid goldenrod;
+	border-radius: 30px;
+	padding-left: 10px;
+	padding-right: 20px;
+	
+	
+
+}
+
+.bg
+{
+	background-image: url("images/GettyImages-1294874384.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+
+
+.center
+{
+	position:absolute;
+	top:25%;
+	left:40%;
+	border: 5px solid rgb(4, 54, 119);
+	border-radius: 25px;
+	padding-left:10px;
+	padding-right:25px;
+	padding-bottom: 100px;
+
+}
+
+
+.body
+{
+	background:linear-gradient(lightgreen,skyblue);
+	background-image:url("images/360_F_244213246_NIicVo7vL04io9y9rN0mABHERYVTF0qT.jpg");
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.error{
+	background: #F2DEDE;
+	color: #A94442;
+	padding: 10px;
+	width: 95%;
+	border-radius: 5px;
+	margin: 20px auto;
+
+ }
+
+.bdy
+{
+	/*background-color: skyblue;
+	*/ 
+	background:linear-gradient(skyblue ,rgba(249, 245, 6, 0.985));
+	background-size: cover;
+	background-repeat: no-repeat;
+	align-items: center;
+
+}
