@@ -33,8 +33,7 @@ include "Database_conn.php";
             <option value="Pencil">Pencil</option>
             <option value="Paint">Paint</option>
           </select> 
-        </b>
-
+        </b>
         <br>
             <br>
             <label><b>Addtional Products :</b></label>
